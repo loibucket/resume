@@ -22,9 +22,8 @@ https://gitlab.com/loibucket
 
 ### _Masters of Liberal Arts, 2021_
 
-### \+ Graduate certificate specialization in Data Science
-
-### \+ Graduate certificate specialization in Back End Development
+\+ Graduate certificate specialization in Data Science\
+\+ Graduate certificate specialization in Back End Development
 
 _Subject Areas:_
 
@@ -69,9 +68,10 @@ _Subject Areas:_
 
 - 3x Majors: Mechanical Engineering, Applied Mathematics, Molecular Cell Biology
 - Honors Program Scholar, GPA 3.8/4.0
+
   <br>
 
-## _Experience:_
+## _Experience_
 
 ### **Software Engineer, Non-Profit Project, Harvard Extension School, 2021 – Present**
 

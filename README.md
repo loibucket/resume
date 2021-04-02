@@ -37,7 +37,7 @@ _Subject Areas:_
 - SQL, Databases
 - HTML, CSS, JavaScript
 
-### **Rensselaer Polytechnic Institute, Master of Engineering, Mechanical Engineering, 2009-2011**
+### **Rensselaer Polytechnic Institute, Master, Mechanical Engineering, 2009-2011**
 
 ### **University of Connecticut, MBA, Master of Business Administration, 2009-2012**
 

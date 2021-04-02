@@ -4,12 +4,9 @@
 
 ### **Python, React, JavaScript, R, AWS, OCI, GCP, SQL, NoSQL, Docker, Kubernetes, CI/CD, Git**
 
-loi.cheng@gmail.com
-
-https://www.linkedin.com/in/loicheng/
-
-https://github.com/loibucket
-
+loi.cheng@gmail.com\
+https://www.linkedin.com/in/loicheng/\
+https://github.com/loibucket\
 https://gitlab.com/loibucket
 
 <br>
@@ -41,8 +38,6 @@ _Subject Areas:_
 - C++, Programming Abstractions
 - SQL, Databases
 - HTML, CSS, JavaScript
-
-<br>
 
 ### **Rensselaer Polytechnic Institute, Master of Engineering, Mechanical Engineering, 2009-2011**
 

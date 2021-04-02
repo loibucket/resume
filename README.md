@@ -1,7 +1,5 @@
 # **Loi Cheng, Software Engineering, Data Science**
 
-##
-
 ### **Experienced engineer specialized in backend, dev-ops, data science**
 
 ### **Python, React, JavaScript, R, AWS, OCI, GCP, SQL, NoSQL, Docker, Kubernetes, CI/CD, Git**
@@ -35,7 +33,7 @@ _Subject Areas:_
 - Java, UML, Software Design Patterns
 - Kubernetes, Blockchain, GitLab CI/CD
 
-### **Stanford University, Graduate Courses in Computer Science, 2015-2016** 
+### **Stanford University, Graduate Courses in Computer Science, 2015-2016**
 
 _Subject Areas:_
 
@@ -48,11 +46,7 @@ _Subject Areas:_
 
 ### **Rensselaer Polytechnic Institute, Master of Engineering, Mechanical Engineering, 2009-2011**
 
-<br>
-
 ### **University of Connecticut, MBA, Master of Business Administration, 2009-2012**
-
-<br>
 
 ### **University of Connecticut, Bachelor of Science, 2001-2006**
 

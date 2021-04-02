@@ -12,7 +12,7 @@ https://gitlab.com/loibucket
 ## _Education_
 
 ### **Harvard University Extension School, Masters of Liberal Arts, 2021**
-
+\+ Software Engineering\
 \+ Graduate certificate specialization in Data Science\
 \+ Graduate certificate specialization in Back End Development
 

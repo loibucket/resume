@@ -1,8 +1,10 @@
 # **Loi Cheng, Software Engineering, Data Science**
 
-## **Experienced engineer specialized in backend, dev-ops, data science**
+##
 
-## **Python, React, JavaScript, R, AWS, OCI, GCP, SQL, NoSQL, Docker, Kubernetes, CI/CD, Git**
+### **Experienced engineer specialized in backend, dev-ops, data science**
+
+### **Python, React, JavaScript, R, AWS, OCI, GCP, SQL, NoSQL, Docker, Kubernetes, CI/CD, Git**
 
 loi.cheng@gmail.com
 
@@ -11,7 +13,6 @@ https://www.linkedin.com/in/loicheng/
 https://github.com/loibucket
 
 https://gitlab.com/loibucket
-
 
 <br>
 
@@ -56,9 +57,9 @@ _Subject Areas:_
 
 <br>
 
-## **University of Connecticut**
+### **University of Connecticut**
 
-## _MBA, Master of Business Administration, 2009-2012_
+### _MBA, Master of Business Administration, 2009-2012_
 
 <br>
 

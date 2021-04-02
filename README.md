@@ -18,9 +18,7 @@ https://gitlab.com/loibucket
 
 ## _Education_
 
-### **Harvard University Extension School**
-
-### _Masters of Liberal Arts, 2021_
+### **Harvard University Extension School, Masters of Liberal Arts, 2021**
 
 \+ Graduate certificate specialization in Data Science\
 \+ Graduate certificate specialization in Back End Development
@@ -37,9 +35,7 @@ _Subject Areas:_
 - Java, UML, Software Design Patterns
 - Kubernetes, Blockchain, GitLab CI/CD
 
-### **Stanford University**
-
-### _Graduate Courses in Computer Science, 2015-2016_
+### **Stanford University, Graduate Courses in Computer Science, 2015-2016** 
 
 _Subject Areas:_
 
@@ -50,21 +46,15 @@ _Subject Areas:_
 
 <br>
 
-### **Rensselaer Polytechnic Institute**
-
-### _Master of Engineering, Mechanical Engineering, 2009-2011_
+### **Rensselaer Polytechnic Institute, Master of Engineering, Mechanical Engineering, 2009-2011**
 
 <br>
 
-### **University of Connecticut**
-
-### _MBA, Master of Business Administration, 2009-2012_
+### **University of Connecticut, MBA, Master of Business Administration, 2009-2012**
 
 <br>
 
-### **University of Connecticut**
-
-### _Bachelor of Science, 2001-2006_
+### **University of Connecticut, Bachelor of Science, 2001-2006**
 
 - 3x Majors: Mechanical Engineering, Applied Mathematics, Molecular Cell Biology
 - Honors Program Scholar, GPA 3.8/4.0

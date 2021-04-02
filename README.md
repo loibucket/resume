@@ -4,12 +4,10 @@
 
 ### **Python, React, JavaScript, R, AWS, OCI, GCP, SQL, NoSQL, Docker, Kubernetes, CI/CD, Git**
 
-loi.cheng@gmail.com\
-https://www.linkedin.com/in/loicheng/\
-https://github.com/loibucket\
+loi.cheng@gmail.com \
+https://www.linkedin.com/in/loicheng/ \
+https://github.com/loibucket \
 https://gitlab.com/loibucket
-
-<br>
 
 ## _Education_
 
@@ -44,11 +42,8 @@ _Subject Areas:_
 ### **University of Connecticut, MBA, Master of Business Administration, 2009-2012**
 
 ### **University of Connecticut, Bachelor of Science, 2001-2006**
-
 - 3x Majors: Mechanical Engineering, Applied Mathematics, Molecular Cell Biology
 - Honors Program Scholar, GPA 3.8/4.0
-
-  <br>
 
 ## _Experience_
 

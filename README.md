@@ -47,8 +47,9 @@ _Subject Areas:_
 
 ## _Experience_
 
-### **Software Engineer, Non-Profit Project, Harvard Extension School, 2021 – Present**
+### **Software Engineer, Non-Profit Projects, 2021 – Present**
 
+- Collaborations with Harvard Extension School, University of Washington
 - Built and containerized webapps on Dropwizard, React
 - Created and managed Kubernetes cluster on AWS with EKS and kOps
 - Built CI/CD pipeline in GitLab, automated build, test, and delivery of apps to AWS

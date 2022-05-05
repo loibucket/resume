@@ -47,7 +47,10 @@ _Subject Areas:_
 
 ## _Experience_
 
-### **Software Engineer, Non-Profit Projects, 2021 – Present**
+### **Data Engineer, Life Sciences Startup, 2021 - present **
+- applying big data tools (ex. bigquery, neo4j) to drug research and development
+
+### **Software Engineer, Non-Profit Projects, 2021 **
 
 - Collaborations with Harvard Extension School, University of Washington
 - Built and containerized webapps on Dropwizard, React
